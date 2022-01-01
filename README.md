@@ -1,11 +1,28 @@
-- 👋Olá meu nome é Felipe Felix, 21 anos
-- 📘 Estudante de TI e apaixonado por programação
+## Olá meu nome é Felipe Felix, 21 anos, Desenvolvedor Junior.
+- 📘 Estudante de TI e apaixonado por programação.
 - 📕 Atualmente sou graduando em Sistemas de Informação e estudo desenvolvimento em Java.
+- 🎵 Apaixonado por música.
+- 🎮Jogo league of legends nas horas vagas.
 
-Operador de logística, técnico em eletrotécnica, proativo, assíduo, possuo conhecimentos em informática e pacote Office.
-Possuo 6 meses de experiência na área de logística, onde atuo como auxiliar operacional para uma das empresas lideres no setor. 
-Atualmente sou graduando em sistemas de Informação e desenvolvedor iniciante com foco em Java. Também possuo conhecimentos em linguagem de programação Python e Mysql.
-Busco me inserir no mercado profissional da área de TI e colocar em prática os conhecimentos que adquiri em minha formação acadêmica.
+<div align="center">
+  <a href="https://github.com/felpfe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpfe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpfe&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+  <div> 
+  <a href="https://www.instagram.com/felpfe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-felix-0729371a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
 
 <!---
 felpfe/felpfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
