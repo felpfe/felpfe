@@ -1,6 +1,6 @@
 - 👋Olá meu nome é Felipe Felix, 21 anos
-- 👀 Estudante de TI e apaixonado por programação
-- 🌱 Atualmente sou graduando em Sistemas de Informação e estudo desenvolvimento em Java.
+- 📘 Estudante de TI e apaixonado por programação
+- 📕 Atualmente sou graduando em Sistemas de Informação e estudo desenvolvimento em Java.
 
 Operador de logística, técnico em eletrotécnica, proativo, assíduo, possuo conhecimentos em informática e pacote Office.
 Possuo 6 meses de experiência na área de logística, onde atuo como auxiliar operacional para uma das empresas lideres no setor. 
