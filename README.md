@@ -1,6 +1,6 @@
 ## Olá meu nome é Felipe Felix, 21 anos, Desenvolvedor Junior.
 - 📘 Estudante de TI e apaixonado por programação.
-- 📕 Atualmente sou graduando em Sistemas de Informação e estudo desenvolvimento em Java.
+- 📕 Atualmente sou graduando em Sistemas de Informação e estudo desenvolvimento em Java e C#.
 - 🎵 Apaixonado por música.
 - 🎮Jogo league of legends nas horas vagas.
 
@@ -12,6 +12,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
