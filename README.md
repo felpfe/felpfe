@@ -1,6 +1,6 @@
-## Olá meu nome é Felipe Felix, 21 anos, Desenvolvedor Junior.
+## Olá meu nome é Felipe Felix, 23 anos
 - 📘 Estudante de TI e apaixonado por programação.
-- 📕 Atualmente sou graduando em Sistemas de Informação e estudo desenvolvimento em Java e C#.
+- 📕 Atualmente sou graduando em Análise e desenvolvimento de sistemas e estudo desenvolvimento em Java e C#.
 - 🎵 Apaixonado por música.
 - 🎮Jogo league of legends nas horas vagas.
 
